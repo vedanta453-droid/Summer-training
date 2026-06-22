@@ -31,5 +31,5 @@ let leader ={
 }
 // Iterating
 for(let key in leader){
-    console.log(key+"-"+leader[key]);
+    console.log(key+"-"+leader[key]);f
 }
