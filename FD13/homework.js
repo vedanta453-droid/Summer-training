@@ -1,7 +1,7 @@
 let student={
 name:"Utkarsh",
 age:21,
-course:"Btech CSE",
+letcourse:"Btech CSE",
 city:"Lucknow",
 
 }
